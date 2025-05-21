@@ -54,4 +54,4 @@
 
 ## 🐍 Aktivitas Kontribusi Saya
 
-![snake gif](https://github.com/Zulkifli09791/Zulkifli09791/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/zulkifli09791/zulkifli09791/blob/output/github-contribution-grid-snake.svg)
