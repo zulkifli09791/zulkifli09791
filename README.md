@@ -52,6 +52,3 @@
 
 > *“Terus belajar, terus berkembang, dan jangan takut salah.”*
 
-## 🐍 Aktivitas Kontribusi Saya
-
-![snake gif](https://github.com/zulkifli09791/zulkifli09791/blob/output/github-contribution-grid-snake.svg)
