@@ -12,7 +12,6 @@
 - Saya sedang mendalami pengembangan website dan aplikasi edukasi
 - Fokus pada proyek sederhana namun berguna, seperti:
   - Website toko online
-  - Aplikasi edukatif anak
   - Konversi bilangan, kuis, dan game
 
 ---
@@ -28,7 +27,6 @@
 
 ### Proyek Unggulan
 - [Website Toko Online](https://github.com/Zulkifli09791/website-toko)
-- [Aplikasi Belajar Anak](https://github.com/Zulkifli09791/aplikasi-anak)
 - [Konverter Bilangan](https://github.com/Zulkifli09791/konversi-bilangan)
 
 ---
