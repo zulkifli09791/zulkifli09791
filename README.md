@@ -12,7 +12,7 @@
 - Saya sedang mendalami pengembangan website dan aplikasi edukasi
 - Fokus pada proyek sederhana namun berguna, seperti:
   - Website toko online
-  - Konversi bilangan, kuis, dan game
+  - Konversi bilangan, kuis, dan lain-lainnya. 
 
 ---
 
