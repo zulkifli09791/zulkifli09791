@@ -1,5 +1,5 @@
 
-<h1 align="center">Halo, Saya Zulkifli!</h1>
+<h1 align="center">Haloo, Saya Zulkifli!</h1>
 
 <p align="center">
   Seorang pembelajar dan pengembang web yang suka membangun proyek kreatif dengan <b>HTML, CSS, dan JavaScript</b>.
