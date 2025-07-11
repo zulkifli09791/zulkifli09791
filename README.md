@@ -2,7 +2,7 @@
 <h1 align="center">Halo, Saya Zulkifli!</h1>
 
 <p align="center">
-  Seorang pembelajar dan pengembang web yang suka membangun proyek kreatif dengan <b>HTML, CSS, dan JavaScript</b>.
+  Seorang pembelajar yang suka ambil template lalu edit menggunakan <b>HTML, CSS, dan JavaScript</b>.
 </p>
 
 ---
