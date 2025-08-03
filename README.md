@@ -51,5 +51,5 @@
 > *“Terus belajar, terus berkembang, dan jangan takut salah.”*
 
 
-![GitHub Snake](https://zulkifli09791.github.io/snk/github-contribution-grid-snake.svg)
+(https://raw.githubusercontent.com/zulkifli09791/snk/output/github-contribution-grid-snake.svg)
 
