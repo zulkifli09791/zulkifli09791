@@ -2,7 +2,7 @@
 <h1 align="center">Halo, Saya Zulkifli!</h1>
 
 <p align="center">
-  Seorang gabut yang suka ambil template lalu edit.
+  Seorang gabut yang suka ambil template lalu diedit.
 </p>
 
 ---
