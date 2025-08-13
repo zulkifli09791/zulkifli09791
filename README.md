@@ -26,8 +26,8 @@
 ---
 
 ### Proyek Unggulan
-- [Website Toko Online](https://github.com/Zulkifli09791/website-toko)
-- [Konverter Bilangan](https://github.com/Zulkifli09791/konversi-bilangan)
+- [Website Toko Online](https://kymond-web.vercel.app)
+- [Web Pribadi Mahasiswa](https://webpribadimahasiswa.vercel.app)
 
 ---
 
