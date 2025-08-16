@@ -12,6 +12,7 @@
 - Saya sedang mendalami pengembangan website dan aplikasi edukasi
 - Fokus pada proyek sederhana namun berguna, seperti:
   - Website toko online
+  - Web pribadi
   - Konversi bilangan, kuis, dan lain-lainnya. 
 
 ---
@@ -27,6 +28,8 @@
 
 ### Proyek Unggulan
 - [Website Toko Online](https://kymond-web.vercel.app)
+- [Kalkulator Adat Bugis]
+(https://kalkulator-adat-bugis.vercel.app) 
 - [Web Pribadi Mahasiswa](https://webpribadimahasiswa.vercel.app)
 
 ---
