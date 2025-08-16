@@ -2,7 +2,7 @@
 <h1 align="center">Halo, Saya Zulkifli!</h1>
 
 <p align="center">
-  Seorang gabut yang suka ambil template lalu diedit.
+  Mahasiswa Teknik Informatika.
 </p>
 
 ---
@@ -28,8 +28,7 @@
 
 ### Proyek Unggulan
 - [Website Toko Online](https://kymond-web.vercel.app)
-- [Kalkulator Adat Bugis]
-(https://kalkulator-adat-bugis.vercel.app) 
+- [Kalkulator-adat-bugis](https://kalkulator-adat-bugis.vercel.app)
 - [Web Pribadi Mahasiswa](https://webpribadimahasiswa.vercel.app)
 
 ---
