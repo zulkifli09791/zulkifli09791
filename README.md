@@ -9,7 +9,7 @@
 
 ### Tentang Saya
 
-- Saya sedang mendalami/mempelajari pengembangan website dan aplikasi edukasi
+- Saya sedang mempelajari pengembangan website dan aplikasi
 - Fokus pada proyek sederhana namun berguna, seperti:
   - Website toko online
   - Web pribadi
